@@ -79,7 +79,7 @@ A collection of concept websites exploring different industries and layouts:
   Clean educational layout and content structure
 
 - 🍗 **Restaurant & Event Hall Enquiry Website**  
-  https://valarie-lim.github.io/my-restaurant/
+  https://valarie-lim.github.io/my-restaurant/  
   Designed with a focus on branding and structured service presentation, including clear call-to-action elements and an event enquiry form to support customer interaction
 
 ---
