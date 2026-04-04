@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://valarie-lim.com/portfolio/">🌐 Portfolio</a> •
 <a href="mailto:your-email">📧 i24026722@student.newinti.edu.my</a>
 </p>
 
