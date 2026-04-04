@@ -6,14 +6,8 @@
 </p>
 
 <p align="center">
-<a href="https://valarie-lim.com">🌐 Portfolio</a> •
+<a href="https://valarie-lim.com/portfolio/">🌐 Portfolio</a> •
 <a href="mailto:your-email">📧 i24026722@student.newinti.edu.my</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&lines=Web+Developer;UI%2FUX+Designer;IT+Student;Always+Learning" />
 </p>
 
 ---
