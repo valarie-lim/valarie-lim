@@ -22,7 +22,7 @@ Web Developer • UI/UX • No-Code Builder
 ## 🛠️ Tech Stack
 
 **💻 Programming**  
-C++, Visual Basic (basic), Java (basic)  
+C++ (basic), Visual Basic (basic), Java (basic)  
 
 **🌐 Web Development**  
 HTML, CSS, JavaScript (basic), ASP.NET (basic)  
