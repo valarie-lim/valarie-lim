@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Valarie Lim</h1>
 
 <p align="center">
-🎓 Diploma in Information Technology Student <br>
-💻 Web Developer • UI/UX • No-Code Builder
+Diploma in Information Technology Student <br>
+Web Developer • UI/UX • No-Code Builder
 </p>
 
 <p align="center">
-<a href="mailto:your-email">📧 i24026722@student.newinti.edu.my</a>
+<a href="mailto:your-email">i24026722@student.newinti.edu.my</a>
 </p>
 
 ---
