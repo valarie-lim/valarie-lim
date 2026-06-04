@@ -51,10 +51,27 @@ Systeme.io, GrooveFunnels, ClickFunnels
 
 ---
 
-### 🍰 Baking Website  
+### 🍰 Baking E-Commerce Website  
 🔗 https://mybakingworld.co  
-- Built using WordPress  
-- Structured content and visual presentation with WooCommerce integration for product display and ordering  
+- Developed using WordPress and WooCommerce.  
+- Designed and structured the website layout, product catalog, and ordering workflow.  
+- Implemented responsive design and content management for an online bakery business.  
+
+---
+
+### 🍰 Hotel Booking System  
+🔗 https://hotel.valarie-lim.com  
+- Developed using WordPress, Elementor, and MotoPress Hotel Booking.  
+- Created accommodation listings, booking pages, and reservation workflows.  
+- Configured booking system functionality and responsive user interface.  
+
+---
+
+### 🍰 Learning Management System (LMS)  
+🔗 https://academy.valarie-lim.com  
+- Developed using WordPress, Elementor, and Tutor LMS.  
+- Implemented role-based access for students, lecturers, and administrators.  
+- Configured course management, user authentication, and learning content delivery.   
 
 ---
 
