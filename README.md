@@ -137,7 +137,7 @@ ASP.NET Web Forms • VB.NET • SQL Server • Microsoft Azure • MonsterASP.n
 
 ## 🛒 Smart Retail Management System  
 **Repository**  
-🔗 https://github.com/valarie-lim/smart-retail-management-system  
+🔗 https://github.com/valarie-lim/smart-retail-management  
 Console-based retail management system developed using Object-Oriented Programming principles.  
 
 ### Features  
