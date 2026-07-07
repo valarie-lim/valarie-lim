@@ -301,7 +301,7 @@ I enjoy learning new technologies, improving my development practices, and conti
 
 # 📫 Connect With Me  
 📧 **Email**  
-i24026722@student.newinti.edu.my  
+vallimyh92@gmail.com  
 
 💻 **GitHub**  
 https://github.com/valarie-lim  
