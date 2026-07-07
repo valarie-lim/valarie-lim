@@ -7,18 +7,14 @@ Software Engineering Student | Full-Stack Web Developer | UI/UX Enthusiast
 
 <p align="center">
 <a href="mailto:your-email">i24026722@student.newinti.edu.my</a> |
-  <a href="https://valarie-lim.com">Portfolio</a> |
   <a href="https://github.com/valarie-lim">GitHub</a>
 </p>
 
 ---
 
 ## ✨ About Me  
-I'm a Diploma in Information Technology student passionate about software engineering, full-stack web development, and building practical digital solutions.  
-
-My projects range from Java desktop applications and ASP.NET database systems to modern React/Next.js websites and WordPress solutions. I enjoy transforming ideas into functional, user-friendly applications while continuously improving my technical and problem-solving skills.  
-
-I'm currently seeking opportunities as a **Junior Software Developer** or **Junior Web Developer**, where I can contribute, continue learning, and grow through real-world projects.  
+Career-changing Information Technology student with hands-on experience developing secure, full-stack web applications and database-driven systems. My portfolio includes projects built with ASP.NET, Java, Next.js, React, SQL Server, and WordPress, developed through academic coursework and independent freelance initiatives.  
+Prior to transitioning into software development, I held professional roles in Malaysia and New Zealand, where I cultivated a disciplined approach to problem-solving, collaboration, and high-quality deliverables. I am deeply committed to secure coding practices, cloud deployment, and building scalable digital solutions. I am currently seeking a Junior Software or Web Developer position and am prepared to undertake an internship placement through my university to gain further industry experience.  
 
 ---
 
@@ -81,6 +77,8 @@ I'm currently seeking opportunities as a **Junior Software Developer** or **Juni
 ---
 # 🌟 Software Engineering Projects  
 ## ⛪ Sunday School Database Management System (Capstone Project)  
+**Live Site Demonstration (sample account's login credentials are available in the repo)**  
+🔗 https://bem-sun-sch.runasp.net/  
 
 **Repository**  
 🔗 https://github.com/valarie-lim/sunday-school-management-system  
@@ -95,16 +93,26 @@ A cloud-hosted database management system developed to modernize Sunday School a
 - Teacher, Student & Guardian Management  
 - Report Generation  
 - Email Notification  
+- HTTPS Redirection  
+- SSL-secured Domain Access  
+- SQL Injection Prevention  
 - Cloud Deployment  
+  
+The system was initially deployed on MyASP.NET during the development phase for testing and evaluation.  
+After the project submission, the system interface was further improved and redeployed on MonsterASP.NET, providing a more stable hosting environment with HTTPS and SSL support for live system demonstration.  
 
 **Technologies**  
-ASP.NET Web Forms • VB.NET • SQL Server • HTML • CSS • JavaScript • Microsoft Azure  
+ASP.NET Web Forms • VB.NET • SQL Server • HTML • CSS • JavaScript • MyASP.net • MonsterASP.net(deploy for live site demo)  
 
 ---
 
 ## 🏦 Internet Banking System  
+**Live Site Demonstration (sample account's login credentials are available in the repo)**  
+🔗 https://ckvsystem.runasp.net/    
+
 **Repository**  
 🔗 https://github.com/valarie-lim/internet-banking-system  
+
 A team-developed online banking system built using Rapid Application Development principles.  
 
 ### My Contributions  
@@ -113,11 +121,17 @@ A team-developed online banking system built using Rapid Application Development
 - SHA-256 Password Hashing  
 - Account Lock Protection  
 - Password Reset via Email  
-- Admin Bank Management  
+- Admin Bank Management (New Customer Registration, Customer Account Reactivation) 
+- HTTPS Redirection  
+- SSL-secured Domain Access  
+- SQL Injection Prevention  
 - Azure Deployment  
+ 
+The system was initially deployed to Microsoft Azure during the project submission phase to demonstrate cloud hosting of an ASP.NET web application with SQL Server database integration.  
+After the project submission, additional system modules were independently completed by me and the system was redeployed to MonsterASP.NET hosting to provide a stable public live site demonstration, allowing users to experience the full functionality of the CKV Internet Banking System online.  
 
 **Technologies**  
-ASP.NET Web Forms • VB.NET • SQL Server • Microsoft Azure  
+ASP.NET Web Forms • VB.NET • SQL Server • Microsoft Azure • MonsterASP.net(deploy for live site demo)  
 
 ---
 
@@ -168,9 +182,7 @@ A console-based employee record management system developed as an individual Str
 - C++  
 - Structured Programming  
 - Visual Studio  
-- Git  
-- GitHub
-- 
+  
 ---
 
 # 🌐 Web Development Projects  
@@ -263,7 +275,6 @@ Online learning platform built using WordPress, Elementor, and Tutor LMS.
 ---
 
 # 📚 Currently Learning  
-
 - Data Structures & Algorithms  
 - Software Engineering  
 - Advanced React & Next.js  
@@ -273,7 +284,7 @@ Online learning platform built using WordPress, Elementor, and Tutor LMS.
 ---
 
 # 🎯 Career Goals  
-- Begin my career as a Junior Software Developer or Junior Web Developer  
+- Begin my career as a Junior Web Developer or Junior Software Developer  
 - Build scalable and maintainable software  
 - Contribute to meaningful real-world applications  
 - Continue learning modern development technologies  
@@ -289,12 +300,8 @@ I enjoy learning new technologies, improving my development practices, and conti
 ---
 
 # 📫 Connect With Me  
-
 📧 **Email**  
 i24026722@student.newinti.edu.my  
-
-🌐 **Portfolio**  
-https://valarie-lim.com  
 
 💻 **GitHub**  
 https://github.com/valarie-lim  
