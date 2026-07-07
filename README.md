@@ -6,7 +6,7 @@ Software Engineering Student | Full-Stack Web Developer | UI/UX Enthusiast
 </p>
 
 <p align="center">
-<a href="mailto:your-email">i24026722@student.newinti.edu.my</a> |
+<a href="mailto:your-email">vallimyh92@gmail.com</a> |
   <a href="https://github.com/valarie-lim">GitHub</a>
 </p>
 
