@@ -6,7 +6,7 @@ Software Engineering Student | Full-Stack Web Developer | UI/UX Enthusiast
 </p>
 
 <p align="center">
-<a href="mailto:your-email">vallimyh92@gmail.com</a> |
+<a href="mailto:vallimyh92@gmail.com">Email</a> |
   <a href="https://valarielyh.vercel.app">Portfolio</a>
 </p>
 
