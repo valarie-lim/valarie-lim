@@ -234,8 +234,8 @@ HTML5 • CSS3 • JavaScript
 ---
 
 ## 🌐 Personal Portfolio Website  
-🔗 https://valarie-lim.com  
-Built using WordPress to showcase my projects, technical skills, and professional background.  
+🔗 [valarielim.vercel.app](https://valarielim.vercel.app)  
+Built with React and deployed to Vercel to showcase my projects, technical skills, and professional background.  
 
 ---
 
@@ -304,6 +304,6 @@ I enjoy learning new technologies, improving my development practices, and conti
 vallimyh92@gmail.com  
 
 💻 **Portfolio**  
-[https://valarielyh.vercel.app  ](https://valarielim.vercel.app/)  
+[valarielim.vercel.app](https://valarielim.vercel.app/)  
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=valarie-lim)
