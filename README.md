@@ -305,4 +305,4 @@ vallimyh92@gmail.com
 
 💻 **Portfolio**  
 https://valarielyh.vercel.app
-![](https://komarev.com)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=valarie-lim)
