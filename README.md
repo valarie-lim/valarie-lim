@@ -7,7 +7,7 @@ Software Engineering Student | Full-Stack Web Developer | UI/UX Enthusiast
 
 <p align="center">
 <a href="mailto:vallimyh92@gmail.com">Email</a> |
-  <a href="https://valarielyh.vercel.app">Portfolio</a>
+  <a href="https://valarielim.vercel.app">Portfolio</a>
 </p>
 
 ---
@@ -304,6 +304,6 @@ I enjoy learning new technologies, improving my development practices, and conti
 vallimyh92@gmail.com  
 
 💻 **Portfolio**  
-https://valarielyh.vercel.app  
+[https://valarielyh.vercel.app  ](https://valarielim.vercel.app/)  
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=valarie-lim)
