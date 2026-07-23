@@ -303,5 +303,6 @@ I enjoy learning new technologies, improving my development practices, and conti
 📧 **Email**  
 vallimyh92@gmail.com  
 
-💻 **GitHub**  
-https://github.com/valarie-lim  
+💻 **Portfolio**  
+https://valarielyh.vercel.app
+![](https://komarev.com)
