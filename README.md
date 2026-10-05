@@ -32,8 +32,8 @@ Software Engineering Student | Full-Stack Web Developer | UI/UX Enthusiast
 ---
 
 ### 🌟 Featured Projects
-* **🌐 Personal Portfolio Website: Built with React and deployed to Vercel to showcase my projects, technical skills, and professional background.  
-🔗 [valarie-lim.vercel.app](https://valarie-lim.vercel.app)
+* **🌐 [Personal Portfolio Website]** | *React, Vite, JavaScript, HTML/CSS, JSON, LocalStorage*
+  * Built with React and deployed to Vercel to showcase my projects, technical skills, and professional background. ([Live Demo](https://valarie-lim.vercel.app))
 
 * **⛪ [Sunday School Management System](https://github.com/valarie-lim/sunday-school-management-system)** | *ASP.NET, VB.NET, SQL Server*
   * Capstone DBMS featuring RBAC, SHA-256 password hashing, report generation, and SSL cloud deployment. ([Live Demo](https://bem-sun-sch.runasp.net/))
