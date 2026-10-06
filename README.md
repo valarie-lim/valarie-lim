@@ -15,7 +15,7 @@ Junior Web Developer | UI/UX Enthusiast
 ---
 
 ### 💼 About Me
-* 🎓 Pursuing a Diploma in IT, seeking a **Junior Web/Frontend/Software Developer** role.
+* 🎓 Pursuing a Diploma in IT, seeking a **Junior Web/Frontend/Software Developer** or **Industrial Trainee** role.
 * 🛡️ Focused on **secure coding practices**, database management, and cloud deployment.
 * 🍰 Former professional baker, bringing strong attention to detail and creative problem-solving to tech.
 
