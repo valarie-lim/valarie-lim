@@ -59,7 +59,19 @@ Junior Web Developer | UI/UX Enthusiast
 ---
 
 # 🚀 Skills Demonstrated  
-Software Engineering • Object-Oriented Programming (OOP) • Database Design • SQL Development • Authentication & Authorization • CRUD Application Development • Responsive Web Development • React & Next.js Development • ASP.NET Web Development • Cloud Deployment • UI / UX Design • Git Version Control • SEO Fundamentals  
+• Software Engineering 
+• Object-Oriented Programming (OOP) 
+• Database Design 
+• SQL Development 
+• Authentication & Authorization 
+• CRUD Application Development 
+• Responsive Web Development 
+• React & Next.js Development 
+• ASP.NET Web Development 
+• Cloud Deployment 
+• UI / UX Design 
+• Git Version Control 
+• SEO Fundamentals  
 
 ---
 
